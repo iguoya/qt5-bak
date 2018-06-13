@@ -6,7 +6,7 @@ Window {
     visible: true
     width: 960
     height: 540
-    title: qsTr("Hello World")
+    title: qsTr("基本的QML语法")
     // The root element is the Rectangle
     Rectangle {
         // name this element root
