@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/background medium.png</file>
+        <file>assets/background medium@2x.png</file>
+        <file>assets/background.png</file>
+        <file>assets/background@2x.png</file>
+        <file>assets/box_blue.png</file>
+        <file>assets/box_blue@2x.png</file>
+        <file>assets/box_green.png</file>
+        <file>assets/box_green@2x.png</file>
+        <file>assets/box_red.png</file>
+        <file>assets/box_red@2x.png</file>
+        <file>assets/circle_blue.png</file>
+        <file>assets/circle_blue@2x.png</file>
+        <file>assets/circle_green.png</file>
+        <file>assets/circle_green@2x.png</file>
+        <file>assets/circle_red.png</file>
+        <file>assets/circle_red@2x.png</file>
+        <file>assets/particle.png</file>
+        <file>assets/rect.png</file>
+        <file>assets/rocket.png</file>
+        <file>assets/rocket@2x.png</file>
+        <file>assets/star.png</file>
+        <file>assets/triangle_blue.png</file>
+        <file>assets/triangle_blue@2x.png</file>
+        <file>assets/triangle_green.png</file>
+        <file>assets/triangle_green@2x.png</file>
+        <file>assets/triangle_red.png</file>
+        <file>assets/triangle_red@2x.png</file>
+        <file>assets/ufo.png</file>
+        <file>main.cpp</file>
+        <file>ClickableImageV2.qml</file>
+    </qresource>
+</RCC>
