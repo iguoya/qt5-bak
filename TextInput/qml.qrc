@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>TLineEditV1.qml</file>
-        <file>TLineEditV2.qml</file>
-        <file>TTextEdit.qml</file>
-        <file>GreenSquare.qml</file>
-    </qresource>
-</RCC>
